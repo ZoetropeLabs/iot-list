@@ -13,6 +13,7 @@ Maintained by [Zoetrope IoT consulting/development](https://zoetrope.io)
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
  
 
+- [Entry Format](#entry-format)
 - [IoT Hardware development](#iot-hardware-development)
 - [IoT software](#iot-software)
 - [IoT technology](#iot-technology)
@@ -23,6 +24,13 @@ Maintained by [Zoetrope IoT consulting/development](https://zoetrope.io)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Entry Format
+
+1. Company name (linked)
+2. -
+3. Very brief, non salesy synopsis
+4. (Type) - Choose from {OSS|SaaS|Free|Consulting}
+
 ## IoT Hardware development
 
 * [Spark](http://spark.io) - Wifi/2G/3G dev boards & platform $10 starting price (OSS).
@@ -32,6 +40,7 @@ Maintained by [Zoetrope IoT consulting/development](https://zoetrope.io)
 
 * [Snappy Ubuntu Core](http://www.ubuntu.com/things) - Stripped down ubuntu for ARM/x86 cores (OSS).
 * [Forge Rock](http://www.forgerock.com/) - User/Thing Identification/Authentication/Directory (SaaS).
+* [Thingstud](http://www.thingstud.io/) - Simple IoT UI's (SaaS)
 
 ## IoT technology
 * [Chaos Prime](http://www.chaosprime.com/) - secure radio technology for IoT.
@@ -40,10 +49,12 @@ Maintained by [Zoetrope IoT consulting/development](https://zoetrope.io)
 
 * [Cumulocity](http://www.cumulocity.com/) - Business focused IoT data collection/processing/remote control (SaaS).
 * [Cloudplugs](http://cloudplugs.com/features/) - Connect IoT devices for collection/processing/remote control (SaaS).
+* [Dweet](http://dweet.io/) - "It's like Twitter for social machines." (Free)
 
 ## IoT analytics
 
 * [KeenIO](https://keen.io/) - RESTful analytics storage and querying (SaaS).
+* [Neura](http://www.theneura.com/) - Personal/family timeline building & notifications (SaaS).
 
 ## IoT home automation
 
@@ -52,7 +63,7 @@ Maintained by [Zoetrope IoT consulting/development](https://zoetrope.io)
 
 ## IoT Consulting
 
-* [Zoetrope](https://zoetrope.io) - Bristol, UK - Specialist IoT ideas generation/prototyping.
-* [Zones](http://www.zones.com/) - US - IT/IoT consultancy.
-* [CyberVision](http://www.cybervisiontech.com/) - US/Ukraine - IoT/big data services.
-* [DataArt](http://www.dataart.com/) - US/UK/Switzerland - Software consultancy inc IoT.
+* [Zoetrope](https://zoetrope.io) - Bristol, UK - Specialist IoT ideas generation/prototyping (Consulting).
+* [Zones](http://www.zones.com/) - US - IT/IoT consultancy (Consulting).
+* [CyberVision](http://www.cybervisiontech.com/) - US/Ukraine - IoT/big data services (Consulting).
+* [DataArt](http://www.dataart.com/) - US/UK/Switzerland - Software consultancy inc IoT (Consulting).
