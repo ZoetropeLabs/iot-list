@@ -51,6 +51,7 @@ Maintained by [Zoetrope IoT consulting/development](https://zoetrope.io)
 * [Cumulocity](http://www.cumulocity.com/) - Business focused IoT data collection/processing/remote control (SaaS).
 * [Cloudplugs](http://cloudplugs.com/features/) - Connect IoT devices for collection/processing/remote control (SaaS).
 * [Dweet](http://dweet.io/) - "It's like Twitter for social machines." (Free)
+* [Ubidots](http://ubidots.com./) - Sensor data platform. (SaaS/Free for developer)
 * [Zetta](http://www.zettajs.org/) - "An API-First Internet of Things Platform." (OSS)
 
 ## IoT analytics
