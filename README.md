@@ -29,10 +29,11 @@ Maintained by [Zoetrope IoT consulting/development](https://zoetrope.io)
 1. Company name (linked)
 2. -
 3. Very brief, non salesy synopsis
-4. (Type) - Choose from {OSS|SaaS|Free|Consulting}
+4. (Type) - Choose from {OSS|SaaS|Closed|Free|Consulting}
 
 ## IoT Hardware development
 
+* [ESP8266](http://www.esp8266.com/) - Very cheap WiFi module, $2.5. (Closed).
 * [Spark](http://spark.io) - Wifi/2G/3G dev boards & platform $10 starting price (OSS).
 * [Dragino](http://www.dragino.com/) - Gateways, plus arduino compatible Wifi dev modules (OSS).
 * [Onion Omega](https://onion.io/omega) - OpenWRT based module, preorders at $22.50 (OSS).
