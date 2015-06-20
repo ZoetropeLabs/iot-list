@@ -35,6 +35,7 @@ Maintained by [Zoetrope IoT consulting/development](https://zoetrope.io)
 
 * [Spark](http://spark.io) - Wifi/2G/3G dev boards & platform $10 starting price (OSS).
 * [Dragino](http://www.dragino.com/) - Gateways, plus arduino compatible Wifi dev modules (OSS).
+* [Onion Omega](https://onion.io/omega) - OpenWRT based module, preorders at $22.50 (OSS).
 * [WeIO](http://we-io.net/hardware/) - Devboard, Wifi/Ethernet $69 (OSS).
 
 ## IoT software
@@ -51,6 +52,7 @@ Maintained by [Zoetrope IoT consulting/development](https://zoetrope.io)
 * [Cumulocity](http://www.cumulocity.com/) - Business focused IoT data collection/processing/remote control (SaaS).
 * [Cloudplugs](http://cloudplugs.com/features/) - Connect IoT devices for collection/processing/remote control (SaaS).
 * [Dweet](http://dweet.io/) - "It's like Twitter for social machines." (Free)
+* [Onion Cloud](https://onion.io/cloud) - Expose REST API's for devices. (Unknown)
 * [Ubidots](http://ubidots.com./) - Sensor data platform. (SaaS/Free for developer)
 * [Zetta](http://www.zettajs.org/) - "An API-First Internet of Things Platform." (OSS)
 
