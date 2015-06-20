@@ -35,6 +35,7 @@ Maintained by [Zoetrope IoT consulting/development](https://zoetrope.io)
 
 * [Spark](http://spark.io) - Wifi/2G/3G dev boards & platform $10 starting price (OSS).
 * [Dragino](http://www.dragino.com/) - Gateways, plus arduino compatible Wifi dev modules (OSS).
+* [WeIO](http://we-io.net/hardware/) - Devboard, Wifi/Ethernet $69 (OSS).
 
 ## IoT software
 
